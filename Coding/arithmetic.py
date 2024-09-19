@@ -57,3 +57,4 @@ print("Encoded Value:", encoded_value)
 # Decode the value back to the original sequence
 decoded_sequence = coder.decode(encoded_value, len(sequence))
 print("Decoded Sequence:", decoded_sequence)
+print("The end")
