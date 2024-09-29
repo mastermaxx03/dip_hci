@@ -1,2 +1,2 @@
-Image Segmentation using K-Means Clustering
+Image Segmentation with K-Means Clustering
 The code takes an image, applies K-means clustering to segment it into 8 different color regions (k=8), and then displays and saves the resulting segmented image. The choice of k=8 is arbitrary and can be adjusted based on the image content and the desired level of detail in the segmentation. A higher k value will result in more segments, while a lower k value will result in fewer, larger segments. Experimentation is often needed to find the optimal k for a given image.
